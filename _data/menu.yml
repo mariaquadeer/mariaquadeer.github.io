@@ -7,4 +7,6 @@ entries:
       url: research
     - title: archive
       url: archive
+    - title: notes
+    url: notes 
 
