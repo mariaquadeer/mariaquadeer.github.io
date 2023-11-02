@@ -4,7 +4,11 @@ email: maria.quadeer@oist.jp # email of site's author
 url: https://mariaquadeer.github.io # root address of the site
 baseurl: # subpath of the site, e.g. "/blog" (leave it blank "" if you're site shouldn't use a subpath)
 description: > # description of the site (multiple lines allowed)
-  Postdoctoral researcher.
+  quantum physics, quantum information theory.
+  I’m a postdoctoral research fellow at Nanyang Technological University. 
+  I did my Ph.D. at the University of Technology Sydney. 
+  My broad research interests lie in topics at the intersection of the two subjects above. 
+  I’m also enthusiastic about anthropology, arts, politics, photography, and baking.
 
 
 permalink: /:slug.html
