@@ -4,11 +4,9 @@ email: mariaquadeer@gmail.com # email of site's author
 url: https://mariaquadeer.github.io/ # root address of the site
 baseurl: # subpath of the site, e.g. "/blog" (leave it blank "" if you're site shouldn't use a subpath)
 description: > # description of the site (multiple lines allowed)
-  I’m a postdoctoral research fellow at Nanyang Technological University. 
-  I did my Ph.D. at the University of Technology Sydney. 
-  My broad research interests lie at the intersection of quantum information theory and quantum physics. 
-  I’m also enthusiastic about anthropology, arts, politics, photography, and baking.
-
+  I’m a postdoc at the Okinawa Institute of Science and Technology in Japan.
+  I did my Ph.D. at the University of Technology Sydney between 2017-22 under the supervision of Marco Tomamichel and Chris Ferrie.
+  My broad research interests lie at the intersection of quantum information theory and quantum physics.
 
 permalink: /:slug.html
 
