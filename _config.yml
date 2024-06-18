@@ -7,7 +7,6 @@ description: > # description of the site (multiple lines allowed)
   I’m a postdoc at the Okinawa Institute of Science and Technology in Japan.
   I did my Ph.D. at the University of Technology Sydney between 2017-22 under the supervision of Marco Tomamichel and Chris Ferrie.
   My broad research interests lie at the intersection of quantum information theory and quantum physics.
-  I share some stuff [here](https://kafkaishramble.wordpress.com/) but infrequently.
 
 permalink: /:slug.html
 

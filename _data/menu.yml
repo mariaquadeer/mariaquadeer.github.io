@@ -1,10 +1,11 @@
 entries:
-    - title: Google Scholar
-      url: https://scholar.google.com/citations?user=S0YtIL0AAAAJ&hl=en
-    - title: GitHub
-      url: https://github.com/mariaquadeer
-    - title: research
-      url: research
-    - title: notes
-      url: notes 
-
+  - title: Google Scholar
+    url: https://scholar.google.com/citations?user=S0YtIL0AAAAJ&hl=en
+  - title: GitHub
+    url: https://github.com/mariaquadeer
+  - title: research
+    url: research
+  - title: notes
+    url: notes
+  - title: infrequent blog
+    url: https://kafkaishramble.wordpress.com/
