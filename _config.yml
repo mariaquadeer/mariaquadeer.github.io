@@ -4,9 +4,10 @@ email: mariaquadeer@gmail.com # email of site's author
 url: https://mariaquadeer.github.io/ # root address of the site
 baseurl: # subpath of the site, e.g. "/blog" (leave it blank "" if you're site shouldn't use a subpath)
 description: > # description of the site (multiple lines allowed)
-  I’m a postdoc at the Okinawa Institute of Science and Technology in Japan.
+  I'm a quantum physicist with research experience in quantum state estimation and information theory. 
+  I have a strong background in analytical methods, computational modelling, and numerical simulation of noisy quantum systems with C/C++ and Python. 
   I did my Ph.D. at the University of Technology Sydney between 2017-22 under the supervision of Marco Tomamichel and Chris Ferrie.
-  My broad research interests lie at the intersection of quantum information theory and quantum physics.
+  
 
 permalink: /:slug.html
 
